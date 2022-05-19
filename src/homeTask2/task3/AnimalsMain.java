@@ -1,4 +1,4 @@
-package task3;
+package homeTask2.task3;
 
 public class AnimalsMain {
     public static void main(String[] args) {
